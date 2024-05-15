@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://taichi.cool/sitemap.xml
+Sitemap: https://bhuvansingla.com/sitemap.xml
